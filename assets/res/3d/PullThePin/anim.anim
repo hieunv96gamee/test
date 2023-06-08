@@ -1,0 +1,461 @@
+{
+  "__type__": "cc.SkeletonAnimationClip",
+  "_name": "Take 001",
+  "_objFlags": 0,
+  "_native": ".bin",
+  "_duration": 3,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 2,
+  "events": [],
+  "description": {
+    "Bip01 PelvisBone01": {
+      "position": {
+        "offset": 0,
+        "frameCount": 5
+      },
+      "quat": {
+        "offset": 20,
+        "frameCount": 1
+      },
+      "scale": {
+        "offset": 25,
+        "frameCount": 1
+      }
+    },
+    "Bip01 PelvisBone01/Bip01 Pelvis/Bip01 Spine1": {
+      "quat": {
+        "offset": 29,
+        "frameCount": 62
+      },
+      "scale": {
+        "offset": 339,
+        "frameCount": 14
+      },
+      "position": {
+        "offset": 395,
+        "frameCount": 1
+      }
+    },
+    "Bip01 PelvisBone01/Bip01 Pelvis/Bip01 Spine1/Bip01 Spine2": {
+      "quat": {
+        "offset": 399,
+        "frameCount": 68
+      },
+      "scale": {
+        "offset": 739,
+        "frameCount": 13
+      },
+      "position": {
+        "offset": 791,
+        "frameCount": 1
+      }
+    },
+    "Bip01 PelvisBone01/Bip01 Pelvis/Bip01 Spine1/Bip01 Spine2/Bip01 Spine4": {
+      "quat": {
+        "offset": 795,
+        "frameCount": 60
+      },
+      "scale": {
+        "offset": 1095,
+        "frameCount": 11
+      },
+      "position": {
+        "offset": 1139,
+        "frameCount": 1
+      }
+    },
+    "Bip01 PelvisBone01/Bip01 Pelvis/Bip01 Spine1/Bip01 Spine2/Bip01 Spine4/Bip01 Neck": {
+      "quat": {
+        "offset": 1143,
+        "frameCount": 67
+      },
+      "scale": {
+        "offset": 1478,
+        "frameCount": 13
+      },
+      "position": {
+        "offset": 1530,
+        "frameCount": 1
+      }
+    },
+    "Bip01 PelvisBone01/Bip01 Pelvis/Bip01 Spine1/Bip01 Spine2/Bip01 Spine4/Bip01 Neck/Bip01 Head": {
+      "quat": {
+        "offset": 1534,
+        "frameCount": 68
+      },
+      "scale": {
+        "offset": 1874,
+        "frameCount": 15
+      },
+      "position": {
+        "offset": 1934,
+        "frameCount": 1
+      }
+    },
+    "Bip01 PelvisBone01/Bip01 Pelvis/Bip01 Spine1/Bip01 Spine2/Bip01 Spine4/Bip01 Neck/Bip01 Head/Eyes_Brown_2": {
+      "quat": {
+        "offset": 1938,
+        "frameCount": 14
+      },
+      "scale": {
+        "offset": 2008,
+        "frameCount": 1
+      },
+      "position": {
+        "offset": 2012,
+        "frameCount": 1
+      }
+    },
+    "Bip01 PelvisBone01/Bip01 Pelvis/Bip01 Spine1/Bip01 Spine2/Bip01 Spine4/Bip01 Neck/Bip01 Head/Eyes_Brown_1": {
+      "quat": {
+        "offset": 2016,
+        "frameCount": 14
+      },
+      "scale": {
+        "offset": 2086,
+        "frameCount": 1
+      },
+      "position": {
+        "offset": 2090,
+        "frameCount": 1
+      }
+    },
+    "Bip01 PelvisBone01/Bip01 Pelvis/Bip01 Spine1/Bip01 Spine2/Bip01 Spine4/Bip01 Neck/Bip01 Head/Eyes_1": {
+      "scale": {
+        "offset": 2094,
+        "frameCount": 19
+      },
+      "quat": {
+        "offset": 2170,
+        "frameCount": 1
+      },
+      "position": {
+        "offset": 2175,
+        "frameCount": 1
+      }
+    },
+    "Bip01 PelvisBone01/Bip01 Pelvis/Bip01 Spine1/Bip01 Spine2/Bip01 Spine4/Bip01 Neck/Bip01 Head/Eyes_2": {
+      "scale": {
+        "offset": 2179,
+        "frameCount": 19
+      },
+      "quat": {
+        "offset": 2255,
+        "frameCount": 1
+      },
+      "position": {
+        "offset": 2260,
+        "frameCount": 1
+      }
+    },
+    "Bip01 PelvisBone01/Bip01 Pelvis/Bip01 Spine1/Bip01 Spine2/Bip01 Spine4/Bip01 Neck/Bip01 Head/Laugh": {
+      "scale": {
+        "offset": 2264,
+        "frameCount": 65
+      },
+      "quat": {
+        "offset": 2524,
+        "frameCount": 1
+      },
+      "position": {
+        "offset": 2529,
+        "frameCount": 1
+      }
+    },
+    "Bip01 PelvisBone01/Bip01 Pelvis/Bip01 Spine1/Bip01 Spine2/Bip01 Spine4/Bip01 Neck/Bip01 Head/Sad": {
+      "scale": {
+        "offset": 2533,
+        "frameCount": 6
+      },
+      "quat": {
+        "offset": 2557,
+        "frameCount": 1
+      },
+      "position": {
+        "offset": 2562,
+        "frameCount": 1
+      }
+    },
+    "Bip01 PelvisBone01/Bip01 Pelvis/Bip01 Spine1/Bip01 Spine2/Bip01 Spine4/Bip01 L Clavicle": {
+      "quat": {
+        "offset": 2566,
+        "frameCount": 31
+      },
+      "scale": {
+        "offset": 2721,
+        "frameCount": 14
+      },
+      "position": {
+        "offset": 2777,
+        "frameCount": 1
+      }
+    },
+    "Bip01 PelvisBone01/Bip01 Pelvis/Bip01 Spine1/Bip01 Spine2/Bip01 Spine4/Bip01 L Clavicle/Bip01 L UpperArm": {
+      "quat": {
+        "offset": 2781,
+        "frameCount": 73
+      },
+      "scale": {
+        "offset": 3146,
+        "frameCount": 15
+      },
+      "position": {
+        "offset": 3206,
+        "frameCount": 1
+      }
+    },
+    "Bip01 PelvisBone01/Bip01 Pelvis/Bip01 Spine1/Bip01 Spine2/Bip01 Spine4/Bip01 L Clavicle/Bip01 L UpperArm/Bip01 L Forearm": {
+      "quat": {
+        "offset": 3210,
+        "frameCount": 72
+      },
+      "scale": {
+        "offset": 3570,
+        "frameCount": 15
+      },
+      "position": {
+        "offset": 3630,
+        "frameCount": 1
+      }
+    },
+    "Bip01 PelvisBone01/Bip01 Pelvis/Bip01 Spine1/Bip01 Spine2/Bip01 Spine4/Bip01 L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand": {
+      "quat": {
+        "offset": 3634,
+        "frameCount": 31
+      },
+      "scale": {
+        "offset": 3789,
+        "frameCount": 14
+      },
+      "position": {
+        "offset": 3845,
+        "frameCount": 1
+      }
+    },
+    "Bip01 PelvisBone01/Bip01 Pelvis/Bip01 Spine1/Bip01 Spine2/Bip01 Spine4/Bip01 L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger0": {
+      "quat": {
+        "offset": 3849,
+        "frameCount": 31
+      },
+      "scale": {
+        "offset": 4004,
+        "frameCount": 15
+      },
+      "position": {
+        "offset": 4064,
+        "frameCount": 1
+      }
+    },
+    "Bip01 PelvisBone01/Bip01 Pelvis/Bip01 Spine1/Bip01 Spine2/Bip01 Spine4/Bip01 L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 LDigit21": {
+      "quat": {
+        "offset": 4068,
+        "frameCount": 32
+      },
+      "scale": {
+        "offset": 4228,
+        "frameCount": 15
+      },
+      "position": {
+        "offset": 4288,
+        "frameCount": 1
+      }
+    },
+    "Bip01 PelvisBone01/Bip01 Pelvis/Bip01 Spine1/Bip01 Spine2/Bip01 Spine4/Bip01 L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 LDigit21/Bip01 LDigit22": {
+      "quat": {
+        "offset": 4292,
+        "frameCount": 22
+      },
+      "scale": {
+        "offset": 4402,
+        "frameCount": 15
+      },
+      "position": {
+        "offset": 4462,
+        "frameCount": 1
+      }
+    },
+    "Bip01 PelvisBone01/Bip01 Pelvis/Bip01 Spine1/Bip01 Spine2/Bip01 Spine4/Bip01 L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 LDigit31": {
+      "quat": {
+        "offset": 4466,
+        "frameCount": 32
+      },
+      "scale": {
+        "offset": 4626,
+        "frameCount": 15
+      },
+      "position": {
+        "offset": 4686,
+        "frameCount": 1
+      }
+    },
+    "Bip01 PelvisBone01/Bip01 Pelvis/Bip01 Spine1/Bip01 Spine2/Bip01 Spine4/Bip01 L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 LDigit31/Bip01 LDigit32": {
+      "quat": {
+        "offset": 4690,
+        "frameCount": 32
+      },
+      "scale": {
+        "offset": 4850,
+        "frameCount": 15
+      },
+      "position": {
+        "offset": 4910,
+        "frameCount": 1
+      }
+    },
+    "Bip01 PelvisBone01/Bip01 Pelvis/Bip01 Spine1/Bip01 Spine2/Bip01 Spine4/Bip01 R Clavicle": {
+      "quat": {
+        "offset": 4914,
+        "frameCount": 31
+      },
+      "scale": {
+        "offset": 5069,
+        "frameCount": 14
+      },
+      "position": {
+        "offset": 5125,
+        "frameCount": 1
+      }
+    },
+    "Bip01 PelvisBone01/Bip01 Pelvis/Bip01 Spine1/Bip01 Spine2/Bip01 Spine4/Bip01 R Clavicle/Bip01 R UpperArm": {
+      "quat": {
+        "offset": 5129,
+        "frameCount": 73
+      },
+      "scale": {
+        "offset": 5494,
+        "frameCount": 15
+      },
+      "position": {
+        "offset": 5554,
+        "frameCount": 1
+      }
+    },
+    "Bip01 PelvisBone01/Bip01 Pelvis/Bip01 Spine1/Bip01 Spine2/Bip01 Spine4/Bip01 R Clavicle/Bip01 R UpperArm/Bip01 R Forearm": {
+      "quat": {
+        "offset": 5558,
+        "frameCount": 73
+      },
+      "scale": {
+        "offset": 5923,
+        "frameCount": 15
+      },
+      "position": {
+        "offset": 5983,
+        "frameCount": 1
+      }
+    },
+    "Bip01 PelvisBone01/Bip01 Pelvis/Bip01 Spine1/Bip01 Spine2/Bip01 Spine4/Bip01 R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand": {
+      "quat": {
+        "offset": 5987,
+        "frameCount": 34
+      },
+      "scale": {
+        "offset": 6157,
+        "frameCount": 15
+      },
+      "position": {
+        "offset": 6217,
+        "frameCount": 1
+      }
+    },
+    "Bip01 PelvisBone01/Bip01 Pelvis/Bip01 Spine1/Bip01 Spine2/Bip01 Spine4/Bip01 R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger0": {
+      "quat": {
+        "offset": 6221,
+        "frameCount": 32
+      },
+      "scale": {
+        "offset": 6381,
+        "frameCount": 15
+      },
+      "position": {
+        "offset": 6441,
+        "frameCount": 1
+      }
+    },
+    "Bip01 PelvisBone01/Bip01 Pelvis/Bip01 Spine1/Bip01 Spine2/Bip01 Spine4/Bip01 R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 RDigit21": {
+      "quat": {
+        "offset": 6445,
+        "frameCount": 32
+      },
+      "scale": {
+        "offset": 6605,
+        "frameCount": 15
+      },
+      "position": {
+        "offset": 6665,
+        "frameCount": 1
+      }
+    },
+    "Bip01 PelvisBone01/Bip01 Pelvis/Bip01 Spine1/Bip01 Spine2/Bip01 Spine4/Bip01 R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 RDigit21/Bip01 RDigit22": {
+      "quat": {
+        "offset": 6669,
+        "frameCount": 32
+      },
+      "scale": {
+        "offset": 6829,
+        "frameCount": 15
+      },
+      "position": {
+        "offset": 6889,
+        "frameCount": 1
+      }
+    },
+    "Bip01 PelvisBone01/Bip01 Pelvis/Bip01 Spine1/Bip01 Spine2/Bip01 Spine4/Bip01 R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 RDigit31": {
+      "quat": {
+        "offset": 6893,
+        "frameCount": 32
+      },
+      "scale": {
+        "offset": 7053,
+        "frameCount": 15
+      },
+      "position": {
+        "offset": 7113,
+        "frameCount": 1
+      }
+    },
+    "Bip01 PelvisBone01/Bip01 Pelvis/Bip01 Spine1/Bip01 Spine2/Bip01 Spine4/Bip01 R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 RDigit31/Bip01 RDigit32": {
+      "quat": {
+        "offset": 7117,
+        "frameCount": 32
+      },
+      "scale": {
+        "offset": 7277,
+        "frameCount": 15
+      },
+      "position": {
+        "offset": 7337,
+        "frameCount": 1
+      }
+    },
+    "Bip01 PelvisBone01/Bip01 Pelvis": {
+      "quat": {
+        "offset": 7341,
+        "frameCount": 1
+      },
+      "scale": {
+        "offset": 7346,
+        "frameCount": 1
+      },
+      "position": {
+        "offset": 7350,
+        "frameCount": 1
+      }
+    },
+    "Bip01 PelvisBone01/Bip01 Pelvis/Bip01 Spine1/Bip01 Spine2/Bip01 Spine4/Bip01 Neck/Bip01 Head/Scream": {
+      "quat": {
+        "offset": 7354,
+        "frameCount": 1
+      },
+      "scale": {
+        "offset": 7359,
+        "frameCount": 1
+      },
+      "position": {
+        "offset": 7363,
+        "frameCount": 1
+      }
+    }
+  }
+}

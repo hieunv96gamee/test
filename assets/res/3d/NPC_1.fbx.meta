@@ -1,0 +1,291 @@
+{
+  "ver": "1.1.1",
+  "uuid": "2d2e2442-19ad-4055-800e-4efd489c3736",
+  "scaleFactor": 1,
+  "boneCount": 37,
+  "precomputeJointMatrix": false,
+  "animationFrameRate": 30,
+  "subMetas": {
+    "buffer.bin": {
+      "ver": "1.0.0",
+      "uuid": "97f429bc-280d-4732-82f2-8a20923f073c",
+      "name": "buffer.bin",
+      "subMetas": {}
+    },
+    "Body.mesh": {
+      "ver": "1.0.1",
+      "uuid": "4e4ea3ea-623c-47a7-b6f7-9317edc746d9",
+      "verts": 1074,
+      "tris": 1536,
+      "submeshes": 1,
+      "attributes": [
+        [
+          "a_joints",
+          "a_normal",
+          "a_position",
+          "a_uv0",
+          "a_weights"
+        ]
+      ],
+      "minPos": {
+        "x": -0.0314111858606339,
+        "y": 0.0257515050470829,
+        "z": -0.00893446803092957
+      },
+      "maxPos": {
+        "x": 0.0314111858606339,
+        "y": 0.0636506751179695,
+        "z": 0.00893049687147141
+      },
+      "name": "Body.mesh",
+      "subMetas": {}
+    },
+    "Skin_2.mesh": {
+      "ver": "1.0.1",
+      "uuid": "a19d15ab-ac6e-45a2-8025-f31cb799fe84",
+      "verts": 2632,
+      "tris": 1528,
+      "submeshes": 2,
+      "attributes": [
+        [
+          "a_joints",
+          "a_normal",
+          "a_position",
+          "a_uv0",
+          "a_weights"
+        ],
+        [
+          "a_joints",
+          "a_normal",
+          "a_position",
+          "a_uv0",
+          "a_weights"
+        ]
+      ],
+      "minPos": {
+        "x": -0.00918581802397966,
+        "y": -0.0272151604294777,
+        "z": -0.0129624791443348
+      },
+      "maxPos": {
+        "x": 0.0438048131763935,
+        "y": 0.00277926446869969,
+        "z": 0.00151617405936122
+      },
+      "name": "Skin_2.mesh",
+      "subMetas": {}
+    },
+    "Skin_3.mesh": {
+      "ver": "1.0.1",
+      "uuid": "f2d8c77d-5336-4327-9b28-b1a1e9367c1a",
+      "verts": 770,
+      "tris": 975,
+      "submeshes": 1,
+      "attributes": [
+        [
+          "a_joints",
+          "a_normal",
+          "a_position",
+          "a_uv0",
+          "a_weights"
+        ]
+      ],
+      "minPos": {
+        "x": -0.00823957659304142,
+        "y": 0.027526481077075,
+        "z": -0.0096716471016407
+      },
+      "maxPos": {
+        "x": 0.0459095276892185,
+        "y": 0.0729000642895699,
+        "z": 0.0224795341491699
+      },
+      "name": "Skin_3.mesh",
+      "subMetas": {}
+    },
+    "Skin_4.mesh": {
+      "ver": "1.0.1",
+      "uuid": "29a85a07-7117-4b62-a8b6-88687fb81153",
+      "verts": 796,
+      "tris": 752,
+      "submeshes": 1,
+      "attributes": [
+        [
+          "a_joints",
+          "a_normal",
+          "a_position",
+          "a_uv0",
+          "a_weights"
+        ]
+      ],
+      "minPos": {
+        "x": -0.0241002291440964,
+        "y": 0.0257263723760843,
+        "z": -0.00954115577042103
+      },
+      "maxPos": {
+        "x": 0.0241002291440964,
+        "y": 0.0704838037490845,
+        "z": 0.00953690521419048
+      },
+      "name": "Skin_4.mesh",
+      "subMetas": {}
+    },
+    "NPC_1-0.skeleton": {
+      "ver": "1.0.1",
+      "uuid": "83b53ecd-6970-4b8d-8b65-4814955a2946",
+      "name": "NPC_1-0.skeleton",
+      "subMetas": {}
+    },
+    "NPC_1-1.skeleton": {
+      "ver": "1.0.1",
+      "uuid": "0aaf4c12-3bab-4b23-b619-d69d16f35a0b",
+      "name": "NPC_1-1.skeleton",
+      "subMetas": {}
+    },
+    "NPC_1-2.skeleton": {
+      "ver": "1.0.1",
+      "uuid": "c5aeffbb-d576-4015-b46d-f4fb2414a9a0",
+      "name": "NPC_1-2.skeleton",
+      "subMetas": {}
+    },
+    "NPC_1-3.skeleton": {
+      "ver": "1.0.1",
+      "uuid": "8f7f045a-2b97-44da-a210-c6cca585236c",
+      "name": "NPC_1-3.skeleton",
+      "subMetas": {}
+    },
+    "NPC_1.prefab": {
+      "ver": "1.2.9",
+      "uuid": "4c74eef9-28e1-4ebd-915b-707703967c05",
+      "optimizationPolicy": "AUTO",
+      "asyncLoadAssets": false,
+      "readonly": true,
+      "content": [
+        {
+          "__type__": "cc.Prefab",
+          "_name": "",
+          "_objFlags": 0,
+          "data": {
+            "__id__": 1
+          }
+        },
+        {
+          "__type__": "cc.Node",
+          "_name": "Sprite",
+          "_objFlags": 0,
+          "_opacity": 255,
+          "_color": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "_cascadeOpacityEnabled": true,
+          "_parent": null,
+          "_anchorPoint": {
+            "__type__": "cc.Vec2",
+            "x": 0.5,
+            "y": 0.5
+          },
+          "_contentSize": {
+            "__type__": "cc.Size",
+            "width": 40,
+            "height": 36
+          },
+          "_children": [],
+          "_skewX": 0,
+          "_skewY": 0,
+          "_localZOrder": 0,
+          "_globalZOrder": 0,
+          "_tag": -1,
+          "_opacityModifyRGB": false,
+          "_reorderChildDirty": false,
+          "_id": "",
+          "_active": true,
+          "_components": [
+            {
+              "__id__": 2
+            }
+          ],
+          "_prefab": {
+            "__id__": 3
+          },
+          "_eulerAngles": {
+            "__type__": "cc.Vec3",
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "_trs": {
+            "__type__": "TypedArray",
+            "ctor": "Float64Array",
+            "array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              1,
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "__type__": "cc.Sprite",
+          "_name": "",
+          "_objFlags": 0,
+          "node": {
+            "__id__": 1
+          },
+          "_enabled": true,
+          "_spriteFrame": {
+            "__uuid__": "8cdb44ac-a3f6-449f-b354-7cd48cf84061"
+          },
+          "_type": 0,
+          "_sizeMode": 1,
+          "_fillType": 0,
+          "_fillCenter": {
+            "__type__": "cc.Vec2",
+            "x": 0,
+            "y": 0
+          },
+          "_fillStart": 0,
+          "_fillRange": 0,
+          "_isTrimmedMode": true,
+          "_srcBlendFactor": 770,
+          "_dstBlendFactor": 771,
+          "_atlas": null
+        },
+        {
+          "__type__": "cc.PrefabInfo",
+          "root": {
+            "__id__": 1
+          },
+          "asset": null,
+          "fileId": "d7118yAG5lKybkFOAh8koPL"
+        }
+      ],
+      "name": "NPC_1.prefab",
+      "subMetas": {}
+    },
+    "Material #16.mtl": {
+      "ver": "1.0.3",
+      "uuid": "daa82dde-d967-4b4e-b612-bbe16961b127",
+      "dataAsSubAsset": null,
+      "name": "Material #16.mtl",
+      "subMetas": {}
+    },
+    "Glass.mtl": {
+      "ver": "1.0.3",
+      "uuid": "6b1d09cf-210b-486d-9c25-1ef4600dc4b5",
+      "dataAsSubAsset": null,
+      "name": "Glass.mtl",
+      "subMetas": {}
+    }
+  }
+}

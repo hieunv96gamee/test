@@ -1,0 +1,210 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "hand",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 3,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "item/4": {
+        "props": {
+          "active": [],
+          "color": [],
+          "position": [],
+          "scale": []
+        }
+      },
+      "item/2": {
+        "props": {
+          "scale": [],
+          "position": [],
+          "color": []
+        }
+      },
+      "item/3": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.85,
+                "y": 0.85
+              }
+            }
+          ],
+          "position": [],
+          "color": []
+        }
+      },
+      "item/3/tich": {
+        "props": {
+          "scale": [],
+          "position": []
+        }
+      },
+      "item/3/light": {
+        "props": {
+          "active": []
+        }
+      },
+      "item/2 copy": {
+        "props": {
+          "active": [],
+          "scale": [
+            {
+              "frame": 0.7166666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 0.9666666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.933,
+                "y": 0.933
+              }
+            },
+            {
+              "frame": 1.2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ],
+          "position": [],
+          "color": []
+        }
+      },
+      "item/2 copy/light": {
+        "props": {
+          "active": [],
+          "scale": [
+            {
+              "frame": 0.7166666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 0.9666666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      },
+      "hand1": {
+        "props": {
+          "active": [
+            {
+              "frame": 0.06666666666666667,
+              "value": false
+            },
+            {
+              "frame": 0.36666666666666664,
+              "value": true
+            },
+            {
+              "frame": 1.4,
+              "value": true
+            },
+            {
+              "frame": 1.5166666666666666,
+              "value": false
+            },
+            {
+              "frame": 3,
+              "value": false
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0.6833333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 0.9333333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.899,
+                "y": 0.899
+              }
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0.6833333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.9333333333333333,
+              "value": 16
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": 0
+            }
+          ],
+          "position": [
+            {
+              "frame": 0.6833333333333333,
+              "value": [
+                25.157,
+                -197.791,
+                0
+              ]
+            },
+            {
+              "frame": 0.9333333333333333,
+              "value": [
+                17.894,
+                -194.678,
+                0
+              ]
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": [
+                25.157,
+                -197.791,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "logo": {
+        "props": {
+          "scale": []
+        }
+      }
+    }
+  },
+  "events": []
+}
